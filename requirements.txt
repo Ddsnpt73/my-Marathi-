@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+langchain==0.1.16
+chromadb==0.4.22
+sentence-transformers
+huggingface-hub
+requests
